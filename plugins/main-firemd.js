@@ -2,35 +2,38 @@ let handler = async m =>
   m.reply(
     `
 
-≡  *FIRE MD ┃
+≡  *Queen D ┃
 
 ─────────────
-▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVm
+▢ Join public support
+https://chat.whatsapp.com/IXJuSUBgpRjHGmjbX42j1I
 
-▢ Group 2
-https://chat.whatsapp.com/LwLQab5mZVW6
+▢ Public Bot Group
+https://chat.whatsapp.com/DgcQsCtrjxcFrBKR5Qwsu4
 
-▢ Group 3
-https://chat.whatsapp.com/Jn9qVe
+▢ Queen D Testing And Debugging
+https://chat.whatsapp.com/G9Ba7rfLVb7GOWkNcIKCJb
+
+▢ Like to Support Queen D Developers ? Then Join
+https://chat.whatsapp.com/GhlHbWvzYuDDjnODE2hTsH
 
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3
+ https://chat.whatsapp.com/FOk5NUK9uBkDlA7nMpSUkf
 ─────────────
 ▢ *Owner Telegram*
- https://t.me/i_w
+ https://t.me/asmodeus_epzi
 
 ▢ *YouTube*
-• https://www.youtube.com/
+• https://www.youtube.com/EPZi
 
 
 `.trim()
   )
 handler.help = ['gpguru']
 handler.tags = ['main']
-handler.command = ['groups', 'groupfire', 'gugp', 'ggp', 'gpfire*']
+handler.command = ['groups', 'groupfire', 'gugp', 'ggp', 'queend*']
 
 export default handler

@@ -50,7 +50,7 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
             conn.sendMessage(m.chat, {document: {url: ress.url}, fileName: __res[0].title + '.mp3', mimetype: 'audio/mp4'}, {quoted: m});
             conn.sendMessage(m.chat, {audio: {url: ress.url}, fileName: __res[0].title + '.mp3', mimetype: 'audio/mp4'}, {quoted: m});
           } catch {
-            await conn.reply(m.chat, '*[🔥] Fire md is extracting your audio please be patient *', m);
+            await conn.reply(m.chat, '*[💋] Queen D is extracting your audio please be patient *', m);
           }
         }
       }
@@ -79,13 +79,13 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
             const n4 = lolh.result.thumbnail;
             await await conn.sendMessage(m.chat, {document: {url: dl_url}, fileName: `${ttl}.mp4`, mimetype: 'video/mp4', caption: `▢ 📌𝗧𝗜𝗧𝗟𝗘: ${ttl}\n▢ 📥𝗩𝗜𝗗𝗘𝗢 𝗦𝗜𝗭𝗘: ${size}`, thumbnail: await fetch(yt.thumbnail)}, {quoted: m});
           } catch {
-            await conn.reply(m.chat, '*[🔥]Fire md is extracting your audio please be patient *', m);
+            await conn.reply(m.chat, '*[💋]Queen D is extracting your audio please be patient *', m);
           }
         }
       }
     }
   } catch {
-    throw '*[🔥]Fire md is extracting your audio please be patient *';
+    throw '*[💋]Queen D is extracting your audio please be patient *';
   }
 };
 handler.help = ['play', 'play2'].map((v) => v + ' < busqueda >');

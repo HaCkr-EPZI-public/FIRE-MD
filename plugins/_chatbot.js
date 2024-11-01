@@ -67,7 +67,7 @@ export async function before(m, { conn }) {
 
       let reply = content.parts[0].text
       if (reply) {
-        reply = reply.replace(/Google/gi, 'FIREMD')
+        reply = reply.replace(/Google/gi, 'Queen-D')
         reply = reply.replace(/a large language model/gi, botname)
 
         m.reply(reply)

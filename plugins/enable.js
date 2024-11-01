@@ -255,7 +255,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 ⛊ jarvis
 ⛊ antispam
 ⛊ antitoxic
-🔥 antilink2
+💋 antilink2
 ╰──────────⳹ 
 ◈──『 *USERS*』───⳹
 ⛊ autolevelup

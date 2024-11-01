@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import { JSDOM } from 'jsdom';
 
 let handler = async (m, { conn, text }) => {
-    const inputText = text || "FIRE MD 🔥";
+    const inputText = text || "Queen D 💋";
     console.log('ðŸ“¥ Input text:', inputText);
     
     const styledText = await stylizeText(inputText);

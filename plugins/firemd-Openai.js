@@ -15,7 +15,7 @@ let handler = async (m, { text, conn, usedPrefix, command }) => {
     conn.sendPresenceUpdate('composing', m.chat)
     const prompt = encodeURIComponent(text)
     const senderNumber = m.sender.replace(/[^0-9]/g, '')
-    const session = `Firemd${senderNumber}`
+    const session = `Queen-D${senderNumber}`
     const guru1 = `https://gpt4.guruapi.tech/user?username=${session}&query=${prompt}`
 
     try {

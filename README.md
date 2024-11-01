@@ -16,7 +16,7 @@
 </p>
 
 ####  
-FIRE-MD 🔥 BRINGING FORTH A NEW FIRE REVOLUTION .
+FIRE-MD 💋 BRINGING FORTH A NEW FIRE REVOLUTION .
 
 ***
 ## important
@@ -85,9 +85,9 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 
 
  
- ## Follow our channel for more updates and information with giveaway 😀🔥
+ ## Follow our channel for more updates and information with giveaway 😀💋
 
-WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
+WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VaupS84HFxOsQ9NPz73H"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
 
 - Star ⭐ the repo if you like FIRE-MD.
 
@@ -115,7 +115,7 @@ Thanks 🙏🏿 To DAVID CYRIL AND DG XEON FOR THEIR TEACHINGS
    
 ## 
 - Not For Sale
-- Do not clone because you can't 😀🔥
+- Do not clone because you can't 😀💋
 
 
 

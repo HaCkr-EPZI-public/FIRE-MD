@@ -1,5 +1,5 @@
 const isToxic =
-  /(gandu|maderchod|bhosdike|bhosda|laud?a|chut?iya|maa ki chut|behenchod|behen ki chut|tatto ke saudagar|machar ki jhant|jhant? ka baal|Rand?i ka aulad|chuchi|booob?ie?s|to?lo?l|idiot|nigga|fuck|dick|bitch|tits|bastard|asshole|a[su,w,yu])/i
+  /(kariya|cariya|crya|krya|baduwa|bduwa|hukpn|hukapan|behen ki chut|tatto ke saudagar|machar ki jhant|jhant? ka baal|Rand?i ka aulad|huththi|wesi|Hutti|ponnaya|pakaya|hutta|Huththa|Hukanawa|hknw|fuck|wtf|a[su,w,yu])/i
 
 import axios from 'axios'
 import fetch from 'node-fetch'

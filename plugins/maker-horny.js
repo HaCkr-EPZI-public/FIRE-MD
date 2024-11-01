@@ -14,7 +14,7 @@ let handler = async (m, { conn }) => {
         .catch(_ => 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'),
     }),
     'hornycard.jpg',
-    '*so horny 🥵🔥*',
+    '*so horny 🥵💋*',
     m
   )
 }

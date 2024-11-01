@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 
 let handler = async (m, { conn, args, text, usedPrefix, command }) => {
   if (!args[0]) {
-    throw `✳️ Enter the Instagram Username\n\n📌Example: ${usedPrefix + command} asli_guru69`;
+    throw `✳️ Enter the Instagram Username\n\n📌Example: ${usedPrefix + command} Sasanka Ramanayaka`;
   }
   
   try {

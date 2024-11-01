@@ -65,7 +65,7 @@ function _0x2d7d() {
     '138900SoPaMU',
     'command',
     '18WIBnHw',
-    '*Firemd\x20EXTERNAL\x20PLUGINS*\x20\x0a\x0ahttps://github.com/',
+    '*Queen-D\x20EXTERNAL\x20PLUGINS*\x20\x0a\x0ahttps://github.com/',
     '286610EXPZvD',
     '252588xRdLJE',
     'help',

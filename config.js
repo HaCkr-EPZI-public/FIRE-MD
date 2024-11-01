@@ -71,23 +71,23 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.packname = 'Queen D'
+global.author = 'Asᴍᴏᴅᴇᴜs Eᴘᴢɪ'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
-global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
+global.dygp = 'https://whatsapp.com/channel/0029VaupS84HFxOsQ9NPz73H'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
-global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
-global.thumb = fs.readFileSync('./Assets/fire.jpg')
+global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.png'
+global.thumb = fs.readFileSync('./Assets/fire.png')
 
 global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '🕑'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌'
-global.xmoji = '🔥'
+global.xmoji = '💋'
 
 global.multiplier = 69
 global.maxwarn = '3'

@@ -1,6 +1,6 @@
 let handler = async (m, { conn, participants, groupMetadata, args }) => {
   const pp =
-    (await conn.profilePictureUrl(m.chat, 'image').catch(_ => null)) || './Assets/fire.jpg'
+    (await conn.profilePictureUrl(m.chat, 'image').catch(_ => null)) || './Assets/fire.png'
   const groupAdmins = participants.filter(p => p.admin)
   const listAdmin = groupAdmins.map((v, i) => `${i + 1}. @${v.id.split('@')[0]}`).join('\n▢ ')
   const owner =

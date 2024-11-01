@@ -16,7 +16,7 @@ let handler = async (m, { conn, text, usedPrefix, command, args }) => {
 
     let topTrending = json.slice(0, 8);
 
-    let message = '🔥 **Top 8 Trending Hentai of the Week** 🔥\n\n';
+    let message = '💋 **Top 8 Trending Hentai of the Week** 💋\n\n';
 
     topTrending.forEach((data, index) => {
       message += `

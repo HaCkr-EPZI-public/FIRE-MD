@@ -2,9 +2,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
   var vn = './Assets/mp3/Alive.mp3'
-  let url = 'https://github.com/Opaksfire/FIRE-MD'
+  let url = 'https://github.com/HaCkr_EPZI-public/CuduNona'
   let murl = 'https:/'
-  let img = 'https://i.imgur.com/tStJm2M.jpeg'
+  let img = 'https://i.ibb.co/Pr4BfhZ/1500x1500.png'
   let con = {
     key: {
       fromMe: false,
@@ -31,9 +31,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       mentionedJid: [m.sender],
       externalAdReply: {
         title: 'I AM ALIVE',
-        body: 'FIRE MD',
+        body: 'Queen D',
         thumbnailUrl: img,
-        sourceUrl: 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp',
+        sourceUrl: 'https://chat.whatsapp.com/DgcQsCtrjxcFrBKR5Qwsu4',
         mediaType: 1,
         renderLargerThumbnail: true,
       },

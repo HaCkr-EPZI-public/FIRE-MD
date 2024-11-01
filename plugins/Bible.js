@@ -37,9 +37,7 @@ let bibleChapterHandler = async (m, { conn }) => {
 Type: ${chapterData.translation_name}\n
 Number of verses: ${chapterData.verses.length}\n
 🔮 *Chapter Content (English):*\n
-${translatedChapterEnglish.text}\n
-🔮 *Chapter Content (Hindi):*\n
-${translatedChapterHindi.text}`
+${translatedChapterEnglish.text}`
 
     m.reply(bibleChapter)
   } catch (error) {

@@ -65,15 +65,15 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *OPAKSFIRE*
+  *Asᴍᴏᴅᴇᴜs Eᴘᴢɪ*
 ▢ Instagram :
-  • https://instagram.com/OPAKSFIRE 
+  • https://instagram.com/yuren.sasanka
 ▢ GitHub :
-  • https://github.com/Opaksfire/FIRE-MD
+  • https://github.com/HaCkr-EPZI-public/CuduNona
 ▢ Telegram : 
-  • t.me/i 
+  • t.me/asmodeus_epzi 
 ▢ YouTube : 
-  • https://youtube.com/@firenation-1?si=1NUPuc6idSkmSoga
+  • https://youtube.com/EPZi
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}

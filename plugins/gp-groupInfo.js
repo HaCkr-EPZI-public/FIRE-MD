@@ -2,7 +2,7 @@
 
 let handler = async (m, { conn, participants, groupMetadata }) => {
   const pp =
-    (await conn.profilePictureUrl(m.chat, 'image').catch(_ => null)) || './firemd.jpg'
+    (await conn.profilePictureUrl(m.chat, 'image').catch(_ => null)) || './firemd.png'
   const {
     isBanned,
     welcome,
